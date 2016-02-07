@@ -6,3 +6,11 @@ doing a little more work in the master
 fixing defect found in prod
 fixing defect found in prod.  fixing defect peer review comments.
 doing dev work on this file
+
+making changes after merge
+
+more changes after merge
+
+last set.. then a squash
+
+I want one more line before squash
