@@ -1,6 +1,10 @@
 adding test from master
 
+<<<<<<< 66f3ba123fcb2264772eacb47c336a05db891f37
 adding new file after dev and fix created
 
 doing a little more work in the master
 fixing defect found in prod
+=======
+fixing defect found in prod.  fixing defect peer review comments.
+>>>>>>> peer review comments on fix
